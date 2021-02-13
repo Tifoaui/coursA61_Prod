@@ -1,0 +1,6 @@
+# api
+flask==1.0.2
+
+# local regression_model package
+# update with your local path
+-e "/home/boby/Documents/deploiement/TravailPratique/coursA61_Prod/packages/regression_model"
