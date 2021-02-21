@@ -10,10 +10,14 @@ from setuptools import find_packages, setup
 
 # Package meta-data.
 NAME = 'regression_model'
-DESCRIPTION = 'Train and deploy regression model.'
-URL = 'your github project'
-EMAIL = 'your_email@email.com'
-AUTHOR = 'Your name'
+# DESCRIPTION = 'Train and deploy regression model.'
+# URL = 'your github project'
+# EMAIL = 'your_email@email.com'
+# AUTHOR = 'Your name'
+DESCRIPTION = 'Former et deployer un modele de regression.'
+URL = 'https://github.com/Tifoaui/coursA61_Prod.git'
+EMAIL = 'tifaouisaid@gmail.com'
+AUTHOR = 'Tifooaui'
 REQUIRES_PYTHON = '>=3.6.0'
 
 
